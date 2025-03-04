@@ -1,0 +1,35 @@
+{
+    "sesiónes": [
+        {
+            "id": "1",
+            "pelicula": {
+                "id": 42,
+                "titulo": "Inception",
+                "duracion": 148
+            },
+            "sala": {
+                "id": "sala1",
+                "numero": 1,
+                "capacidad": 120
+            },
+            "asientos": {
+                "total": 120,
+                "disponibles": 80,
+                "ocupados": 40
+            },
+            "horario": {
+                "fecha": "2024-02-15",
+                "hora_inicio": "16:30",
+                "hora_fin": "19:42"
+            },
+            "precios": {
+                "general": 9.50,
+                "reducido": 7.00
+            },
+            "estado": "activa",
+            "formato": "3D",
+            "idioma": "Español",
+            "subtitulos": "No"
+        }
+    ]
+}

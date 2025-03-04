@@ -1,0 +1,14 @@
+{
+    "id": 42,
+    "titulo": "Inception",
+    "descripcion": "Un ladrón con la rara habilidad de extraer información del subconsciente de las personas mientras sueñan",
+    "directores": ["Christopher Nolan"],
+    "duracion": 148,
+    "genero": "Ciencia ficción",
+    "año": 2010,
+    "actores": [
+        "Leonardo DiCaprio",
+        "Ellen Page",
+        "Tom Hardy"
+    ]
+}
